@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api/add_favorite.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/api/map.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpcms/base.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpcms/languages/zh-cn/admin.lang.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpcms/modules/content/content.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpcms/templates/default/announce/show.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpcms/templates/default/config.php" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/phpsso_server/phpcms/modules/admin/classes/admin.class.php" charset="GBK" />
+  </component>
+</project>
